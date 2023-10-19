@@ -1,4 +1,4 @@
-# SmartQuize
+#                                           SmartQuize
 <h1>Main Window</h1>
 <img src="https://github.com/javohirtohirovich/SmartQuize/assets/124333197/1067d4a8-1d60-4193-b2a0-e9bf1ffb4da2">
 <h1>Teacher Sign Up</h1>
